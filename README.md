@@ -36,4 +36,14 @@
 
 --->Reference Images
 
-Reference Image-1
+![recference image 1](https://github.com/vamsee2004/Prodigyinfotech-1/assets/163383859/ec39cac7-d919-4196-8561-d1d7ae1a23ec)
+
+![reference image-2](https://github.com/vamsee2004/Prodigyinfotech-1/assets/163383859/67f280ce-238f-4c28-9bd9-f13391790ead)
+
+![reference image-3](https://github.com/vamsee2004/Prodigyinfotech-1/assets/163383859/e47bfe6e-6746-4841-bdf3-5be3151c12bb)
+
+![ouput](https://github.com/vamsee2004/Prodigyinfotech-1/assets/163383859/40b13a3f-7517-4c1e-9114-70aad6db46d1)
+
+
+
+
